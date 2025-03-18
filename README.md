@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi there! I'm Sahansara!
+👋 Hi there! I'm Vihaga!
 
 I'm currently pursuing an IT degree program at the University of Colombo. I'm passionate about web development and constantly expanding my skill set to include the latest technologies.
 
@@ -21,7 +21,7 @@ I'm currently pursuing an IT degree program at the University of Colombo. I'm pa
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/widane-vihaga-a73579339)
 
 ## Fun Facts
 
