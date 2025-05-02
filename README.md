@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Vihaga!
 
-I'm currently pursuing an IT degree program at the University of Colombo. I'm passionate about web development and constantly expanding my skill set to include the latest technologies.
+I'm currently pursuing an IT degree program at the University of Colombo. I’m a passionate and ambitious full-stack software developer, dedicated to crafting innovative digital solutions that simplify and enhance everyday life. With a strong foundation in both front-end and back-end technologies, I thrive on turning ideas into functional, user-centered applications. I’m continuously evolving embracing new tools, refining my skills, and staying at the forefront of the ever-changing tech landscape.
 
 ## Skills
 
