@@ -21,7 +21,7 @@ I'm currently pursuing an IT degree program at the University of Colombo. I'm pa
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/widane-vihaga12)
+- [LinkedIn](https://www.linkedin.com/in/widane-vihaga12/)
 
 ## Fun Facts
 
